@@ -1,0 +1,22 @@
+.active{
+  @apply text-orange-600 underline underline-offset-4 ease-in animate-pulse
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     scrollbar-width: thin;
+     scrollbar-color:var(--color-selector)transparent;
+}
+html, body{
+     min-height: 100vh;
+     font-family:"Hanken Grotesk";
+     
+}

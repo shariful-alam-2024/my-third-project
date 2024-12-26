@@ -1,0 +1,28 @@
+
+
+
+.image{
+  background-image:url('/img18.png');
+  background-repeat: no-repeat;
+  background-position:center;
+  
+}
+
+.ima{
+    background-image:url('/img17.png');
+  background-repeat: no-repeat;
+  background-position:center;
+}
+
+.ban{
+    background-image:url('/about.png');
+  background-repeat: no-repeat;
+  background-position:center;
+  
+}
+.pro{
+    background-image:url('/img23.png');
+  background-repeat: no-repeat;
+  background-position:center;
+  
+}
